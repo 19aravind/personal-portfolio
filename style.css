@@ -361,6 +361,9 @@ nav .nav-links li a:hover {
 
 
 }
+.discription button:hover{
+    background-color:white;
+}
 
 .contact-section{
     padding:50px 20px;
